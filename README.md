@@ -26,7 +26,7 @@ Overall, this project fulfills the academic objectives set by CodTech IT Solutio
 
 OUTPUT image of task 4 is:
 
-(https://github.com/user-attachments/assets/38863d4a-1fdc-42c8-93ea-6cdc8b8a1a35)
+![Image](https://github.com/user-attachments/assets/1470970a-ca72-4989-9718-ad94ddc57ab1)
 
 
 
